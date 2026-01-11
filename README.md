@@ -20,3 +20,12 @@
 
 📫 Reach me on:
 - LinkedIn: https://www.linkedin.com/in/sri-suddharshini-21a0a2290/
+### 🔹 Projects (In Progress)
+
+- **Student Skill & Internship Tracker**  
+  Web application to organize student skills, certifications, and internship progress.  
+  _Status: Currently building_
+
+- **Smart Energy Monitoring System**  
+  Hardware-based system to monitor voltage, current, and power consumption.  
+  _Status: Design & simulation phase_
